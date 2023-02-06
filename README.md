@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shady Mohamed Ramadan</h1>
-<h3 align="center">Interested in Mobile Development [Native Android] and Flutter</h3>
+<h3 align="center">Interested in Mobile Development [Native Android] </h3>
 
 - 🌱 I’m currently learning **Android, Flutter**
 
