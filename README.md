@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shadymramadan6@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME] [https://drive.google.com/file/d/1WoQUFFFnkJK650rCCkisqzjqbpGd6pn3/view?usp=share_link]
+- 📄 Know about my experiences [MY RESUME] [(https://drive.google.com/file/d/1WoQUFFFnkJK650rCCkisqzjqbpGd6pn3/view?usp=share_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
