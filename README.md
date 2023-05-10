@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Android Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/u/0/my-drive)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19XS5096ETPY0rW3pf7dAPnTZOGQX8dPH/view?usp=sharing)
 
 <br><br>
 
